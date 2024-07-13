@@ -1,0 +1,9 @@
+::-webkit-scrollbar {
+  width: 0.5rem; 
+  
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-highlight);
+  border-radius: 0.5rem; 
+}
